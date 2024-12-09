@@ -1,0 +1,30 @@
+/*
+Q1. WAP to increase every student mark by 5 & then print the updated array.
+Q2. WAP to print grade of students as per their marks given in an array. (>=75-- A
+grade, 74 to 60--B Grade, 59 to 40--C grade below 40--D grade).
+Q3. WAP to find who scored first “99” in an array marks.
+Q4. WAP to find Who & how many students have scored 99 in an array Marks.
+Q5. WAP to find sum of all scores in Marks array.
+Q6. WAP to find average score of the Marks array.
+Q7. WAP to check whether score is even or odd in an array.
+Q8. WAP to find maximum & minimum score in the Marks array.
+Q9. WAP to find a peak element which is not smaller than its neighbors.
+Q10. WAP to count prime numbers in an array.
+Q11. WAP to implement Insert -Front, any position in between & end in an array. Print
+the array before insert & after insert.
+Q12. WAP to implement delete-Front, any position in between & end in an array. Print
+the array before delete & after delete.
+Q13. Given an array, the task is to cyclically rotate the array clockwise by one time.
+Examples:
+Input: arr[] = {1, 2, 3, 4, 5}
+Output: arr[] = {5, 1, 2, 3, 4}
+Input: arr[] = {2, 3, 4, 5, 1}
+Output: {1, 2, 3, 4, 5}
+Q14. Given an array of n integers. The task is to print the duplicates in the given array.
+If there are no duplicates then print -1.
+Examples:
+Input: {2, 10,10, 100, 2, 10, 11,2,11,2}
+Output: 2 10 11
+Input: {5, 40, 1, 40, 100000, 1, 5, 1}
+Output: 5 40 1
+*/
