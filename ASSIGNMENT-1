@@ -1,1 +1,30 @@
+/* 
+Q1. WAP to check whether a given is Armstrong or not.
+Q2. WAP to read two integers and print their HCF (Highest Common Factor).
+Q3. WAP to subtract two integers without using Minus (-) operator. (Hint Bitwise operator)
+Q4. WAP to accept two integer numbers and swap them using 4 different methods in C
+language.
+Q5. WAP to check whether number is Perfect Number or not.
+(To check perfect number, we have to find all divisors of that number and find their sum, if
+sum of divisors is equal to number it means number is Perfect Number.)
+Q6. WAP to accept a coordinate point in an XY coordinate system and determine in which
+quadrant the coordinate point lies.
+Test Data: 7 9
+Expected Output: The coordinate point (7,9) lies in the First quadrant.
+Q7. WAP for Binary to Decimal conversion & Decimal to Binary for a given number as per
+user’s choice.
+Q8. WAP to print below mentioned pattern:
+1
+01
+101
+0101
+10101
+Q9. WAP to print following Pyramid:
+0 0
+01 01
+010 010
+0101 0101
+0101001010
+Q10. WAP to print Pascal’s Triangle.
+*/
 
